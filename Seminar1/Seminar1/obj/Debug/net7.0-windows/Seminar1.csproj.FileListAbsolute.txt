@@ -1,0 +1,17 @@
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\bin\Debug\net7.0-windows\Seminar1.exe
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\bin\Debug\net7.0-windows\Seminar1.deps.json
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\bin\Debug\net7.0-windows\Seminar1.runtimeconfig.json
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\bin\Debug\net7.0-windows\Seminar1.dll
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\bin\Debug\net7.0-windows\Seminar1.pdb
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.csproj.AssemblyReference.cache
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.Form1.resources
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.csproj.GenerateResource.cache
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.AssemblyInfoInputs.cache
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.AssemblyInfo.cs
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.dll
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\refint\Seminar1.dll
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.pdb
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\Seminar1.genruntimeconfig.cache
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\ByMe_Seminarii\Seminar1\Seminar1\obj\Debug\net7.0-windows\ref\Seminar1.dll
