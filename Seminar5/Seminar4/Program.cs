@@ -1,4 +1,4 @@
-namespace sem4 {
+namespace Seminar4 {
     internal static class Program {
         /// <summary>
         ///  The main entry point for the application.

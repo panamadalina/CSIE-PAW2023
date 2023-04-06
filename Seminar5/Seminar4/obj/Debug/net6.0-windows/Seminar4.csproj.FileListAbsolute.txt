@@ -22,8 +22,6 @@ C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\gi
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\bin\Debug\net6.0-windows\Seminar4.dll
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\bin\Debug\net6.0-windows\Seminar4.pdb
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.csproj.AssemblyReference.cache
-C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\sem4.Form1.resources
-C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\sem4.Form2.resources
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.csproj.GenerateResource.cache
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.AssemblyInfoInputs.cache
@@ -34,3 +32,5 @@ C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\gi
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.pdb
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.genruntimeconfig.cache
 C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\ref\Seminar4.dll
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.Form1.resources
+C:\Users\madalinapana\OneDrive - Microsoft\Desktop\Me\JOBS\CSIE\FACULTATE\PAW\git\Seminar5\Seminar4\obj\Debug\net6.0-windows\Seminar4.Form2.resources

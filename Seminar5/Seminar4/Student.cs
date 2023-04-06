@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sem4 {
+namespace Seminar4 {
+    [Serializable]
     public class Student : Persoana /*,IComparable*/ {
 
         private int varsta;

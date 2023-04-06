@@ -1,4 +1,4 @@
-﻿namespace sem4 {
+﻿namespace Seminar4 {
     partial class Form1 {
         /// <summary>
         ///  Required designer variable.
